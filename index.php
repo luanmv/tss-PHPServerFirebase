@@ -145,7 +145,7 @@
  
             <form class="pure-form pure-form-stacked" method="get">
                 <fieldset>
-                    <legend>Send to Topic `global`</legend>
+                    <legend>Send to Topic global</legend>
  
                     <label for="title1">Title</label>
                     <input type="text" id="title1" name="title" class="pure-input-1-2" placeholder="Enter title">
